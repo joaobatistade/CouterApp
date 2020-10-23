@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">CouterApp</string>
+
+    <!-- Activity_tela1.xml -->
+    <string name="nome_tela1">Tela 1</string>
+    <string name="nav_btn_tela1">Click Aqui</string>
+
+    <!-- Activity_tela2.xml -->
+    <string name="nome_tela2">Tela 2</string>
+    <string name="nav_btn_tela2">Click Aqui</string>
+
+</resources>
